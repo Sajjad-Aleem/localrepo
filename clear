@@ -1,0 +1,45 @@
+[33mcommit 0e67962c365823c98d436f60939a3dcf1ecf7ed0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mfeature1[m[33m)[m
+Merge: 1501959 a27850a
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Sat Feb 10 12:17:56 2024 +0500
+
+    add both feature
+
+[33mcommit a27850a2f66a362bc18314340c5f85208c5637b5[m
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Sat Feb 10 12:10:36 2024 +0500
+
+    add a new button
+
+[33mcommit 1501959d80f17f8aaf31c1ad5de4e8615ddaf965[m
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Sat Feb 10 12:07:16 2024 +0500
+
+    Add drop down
+
+[33mcommit 696592083540d0f113c9b9f6a61e09d946072104[m
+Merge: 4fd4695 8f6d0d7
+Author: Sajjad-Aleem <159518465+Sajjad-Aleem@users.noreply.github.com>
+Date:   Sat Feb 10 11:49:02 2024 +0500
+
+    Merge pull request #1 from Sajjad-Aleem/feature1
+    
+    Add new feature
+
+[33mcommit 8f6d0d7655666e99dea95e76ad8e0560f0edef0c[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Fri Feb 9 22:45:58 2024 +0500
+
+    Add new feature
+
+[33mcommit 4fd4695d66c6ae248b49090a1a5aba6f30cdfe3f[m
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Fri Feb 9 15:27:36 2024 +0500
+
+    create a css demo file
+
+[33mcommit e60d2f91f98766c1891b55d131eecedd64541e42[m
+Author: Sajjad-Aleem <sajjadaleem80@gmail.com>
+Date:   Fri Feb 9 14:59:17 2024 +0500
+
+    created a file
